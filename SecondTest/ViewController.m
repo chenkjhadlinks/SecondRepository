@@ -16,15 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    NSLog(@"kj push 2 ");
     NSLog(@"SJ  1 push");
-    
-    
     NSLog(@"SJ  3 push");
-
     
     NSLog(@"sj push 4");
-    
 }
 
 - (void)didReceiveMemoryWarning {
