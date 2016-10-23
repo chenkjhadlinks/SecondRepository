@@ -18,8 +18,7 @@
     [super viewDidLoad];
     
     
-    1
-    
+    NSLog(@"kj push 2 ");
 }
 
 - (void)didReceiveMemoryWarning {
