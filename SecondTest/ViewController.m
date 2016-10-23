@@ -16,10 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
-    
-    1
-    
 }
 
 - (void)didReceiveMemoryWarning {
