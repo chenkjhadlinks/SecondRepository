@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"SJ  1 push");
+    
 }
 
 - (void)didReceiveMemoryWarning {
