@@ -21,6 +21,10 @@
     NSLog(@"SJ  3 push");
     
     NSLog(@"sj push 4");
+    
+    NSLog(@"tc push 5");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
